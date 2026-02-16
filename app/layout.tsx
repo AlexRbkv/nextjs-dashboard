@@ -13,6 +13,8 @@ export const metadata: Metadata = {
 
 type AppLayoutProps = LayoutProps<'/'>
 
+// test comment
+
 export default function RootLayout({
   children,
 }: AppLayoutProps) {
